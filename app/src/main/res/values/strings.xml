@@ -1,0 +1,74 @@
+<resources>
+    <!--<string name="app_name">Hello Relative</string>-->
+
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Hello Toast</string>
+
+    <!--article-->
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Beatles Anthology Vol.1</string>
+    <string name="article_subtitle">Behind That Locked Door: Beatles Rarities !</string>
+    <string name="article_text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos harum,
+        \n\n
+        hic impedit laborum molestiae odit
+        \n\n
+        recusandae saepe sequi velit voluptates. Cupiditate ea mollitia nesciunt nisi
+        \n\n
+        quae quam recusandae similique ut.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos harum,
+        \n\n
+        hic impedit laborum molestiae odit
+        \n\n
+        recusandae saepe sequi velit voluptates. Cupiditate ea mollitia nesciunt nisi
+        \n\n
+        quae quam recusandae similique ut.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos harum,
+        \n\n
+        hic impedit laborum molestiae odit
+        \n\n
+        recusandae saepe sequi velit voluptates. Cupiditate ea mollitia nesciunt nisi
+        \n\n
+        quae quam recusandae similique ut.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos harum,
+        \n\n
+        hic impedit laborum molestiae odit
+        \n\n
+        recusandae saepe sequi velit voluptates. Cupiditate ea mollitia nesciunt nisi
+        \n\n
+        quae quam recusandae similique ut.
+        www.oriontechno.co.id
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos harum,
+        \n\n
+        hic impedit laborum molestiae odit
+        \n\n
+        recusandae saepe sequi velit voluptates. Cupiditate ea mollitia nesciunt nisi
+        \n\n
+        quae quam recusandae similique ut.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos harum,
+        \n\n
+        hic impedit laborum molestiae odit
+        \n\n
+        recusandae saepe sequi velit voluptates. Cupiditate ea mollitia nesciunt nisi
+        \n\n
+        quae quam recusandae similique ut.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos harum,
+        \n\n
+        hic impedit laborum molestiae odit
+        \n\n
+        recusandae saepe sequi velit voluptates. Cupiditate ea mollitia nesciunt nisi
+        \n\n
+        quae quam recusandae similique ut.
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos harum,
+        \n\n
+        hic impedit laborum molestiae odit
+        \n\n
+        recusandae saepe sequi velit voluptates. Cupiditate ea mollitia nesciunt nisi
+        \n\n
+        quae quam recusandae similique ut.
+        www.oriontechno.co.id
+    </string>
+
+</resources>
